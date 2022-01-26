@@ -919,6 +919,18 @@ a:hover,a:focus{
     margin: 0;
     text-align: left !important;
 }
+.first-icon{
+    margin-left: 12px;
+}
+.color-p2{
+    color: #F3976C!important;
+}
+.p2-color{
+    background-color: #4a3b3b;
+}
+.margin-paragraphe{
+    margin-left: 18px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
